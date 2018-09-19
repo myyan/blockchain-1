@@ -4,6 +4,8 @@
 
 This is the source code for my post on [Building a Blockchain](https://medium.com/p/117428612f46). 
 
+ [Learn blockchain by build one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+
 ## Installation
 
 1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed. 
